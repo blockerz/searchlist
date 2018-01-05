@@ -1,3 +1,3 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-This was an experiment to learn about React. The working version is deployed [here](https://searchlist.herokuapp.com/).
+This was an experiment to learn about React. It calls an open API called [Dog API](https://dog.ceo/dog-api/) which returns a list of breeds. The page displays the search results and dynamically changes based on what is entered in the filter. The working version is deployed [here](https://searchlist.herokuapp.com/).
